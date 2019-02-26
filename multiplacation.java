@@ -7,7 +7,7 @@ package school;
 
 /**
  *
- * @author Hiamsnhu Garg and Hritik Zope.
+ * @author Hiamsnhu Garg.
  * 
  */
 public class multiplacation {
@@ -22,6 +22,5 @@ public class multiplacation {
     counter++;
     }
     System.out.println("The result is: "+ result);
-    }
-    
+    }  
 }
