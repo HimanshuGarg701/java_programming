@@ -8,7 +8,7 @@ hasBad("badxx") → true
 hasBad("xbadxx") → true
 hasBad("xxbadxx") → false
  */
-package home;
+package school;
 
 
 public class HAS_BAD {

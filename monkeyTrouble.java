@@ -7,7 +7,7 @@ monkeyTrouble(true, true) → true
 monkeyTrouble(false, false) → true
 monkeyTrouble(true, false) → false
 */
-package CodingBat;
+package school;
 
 public class monkeyTrouble {
     public static void main(String[] args){

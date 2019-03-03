@@ -9,7 +9,7 @@ minCat("Hello", "Hi") → "loHi"
 minCat("Hello", "java") → "ellojava"
 minCat("java", "Hello") → "javaello"
  */
-package home;
+package school;
 
 
 public class MIN_CAT {

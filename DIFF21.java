@@ -7,7 +7,7 @@ diff21(19) → 2
 diff21(10) → 11
 diff21(21) → 0
  */
-package CodingBat;
+package school;
 
 
 public class DIFF21 {

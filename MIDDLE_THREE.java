@@ -8,7 +8,7 @@ middleThree("Candy") → "and"
 middleThree("and") → "and"
 middleThree("solving") → "lvi"
  */
-package home;
+package school;
 
 
 public class MIDDLE_THREE {

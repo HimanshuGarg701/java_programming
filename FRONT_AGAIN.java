@@ -6,7 +6,7 @@ frontAgain("edited") → true
 frontAgain("edit") → false
 frontAgain("ed") → true
  */
-package home;
+package school;
 
 
 public class FRONT_AGAIN {

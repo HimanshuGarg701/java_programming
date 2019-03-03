@@ -7,7 +7,7 @@ nTwice("Hello", 2) → "Helo"
 nTwice("Chocolate", 3) → "Choate"
 nTwice("Chocolate", 1) → "Ce"
  */
-package home;
+package school;
 
 
 public class N_TWICE {

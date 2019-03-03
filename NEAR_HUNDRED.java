@@ -7,7 +7,7 @@ nearHundred(93) → true
 nearHundred(90) → true
 nearHundred(89) → false
  */
-package CodingBat;
+package school;
 
 
 public class NEAR_HUNDRED {

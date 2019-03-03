@@ -8,7 +8,7 @@ atFirst("hello") → "he"
 atFirst("hi") → "hi"
 atFirst("h") → "h@"
  */
-package home;
+package school;
 
 
 public class AT_FIRST {

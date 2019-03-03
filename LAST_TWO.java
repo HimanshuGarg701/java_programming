@@ -7,7 +7,7 @@ lastTwo("coding") → "codign"
 lastTwo("cat") → "cta"
 lastTwo("ab") → "ba"
  */
-package home;
+package school;
 
 
 public class LAST_TWO {

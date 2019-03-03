@@ -7,7 +7,7 @@ conCat("abc", "cat") → "abcat"
 conCat("dog", "cat") → "dogcat"
 conCat("abc", "") → "abc"
  */
-package home;
+package school;
 
 
 public class CONCAT {

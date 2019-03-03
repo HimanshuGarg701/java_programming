@@ -8,7 +8,7 @@ posNeg(1, -1, false) → true
 posNeg(-1, 1, false) → true
 posNeg(-4, -5, true) → true
  */
-package CodingBat;
+package school;
 
 
 public class POS_NEG {

@@ -8,7 +8,7 @@ twoChar("java", 0) → "ja"
 twoChar("java", 2) → "va"
 twoChar("java", 3) → "ja"
  */
-package home;
+package school;
 
 
 public class TWO_CHAR {

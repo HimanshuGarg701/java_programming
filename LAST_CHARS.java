@@ -7,7 +7,7 @@ lastChars("last", "chars") → "ls"
 lastChars("yo", "java") → "ya"
 lastChars("hi", "") → "h@"
  */
-package home;
+package school;
 
 
 public class LAST_CHARS {

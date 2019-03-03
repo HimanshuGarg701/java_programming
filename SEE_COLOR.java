@@ -6,7 +6,7 @@ seeColor("redxx") → "red"
 seeColor("xxred") → ""
 seeColor("blueTimes") → "blue"
  */
-package home;
+package school;
 
 
 public class SEE_COLOR {

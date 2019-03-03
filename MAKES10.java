@@ -6,7 +6,7 @@ makes10(9, 10) → true
 makes10(9, 9) → false
 makes10(1, 9) → true
  */
-package CodingBat;
+package school;
 
 public class MAKES10 {
     public static void main(String[] args){

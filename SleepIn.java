@@ -1,6 +1,6 @@
 
 
-package CodingBat;
+package school;
 
 /* Question:
  The parameter weekday is true if it is a weekday, and the parameter vacation is true if we are on vacation.
