@@ -9,13 +9,6 @@ bigDiff([2, 10, 7, 2]) → 8
  */
 package school;
 
-
-public class BIG_DIFF {
-    public static void main(String[] args){
-        int[] values = {10, 3, 5, 6};
-        int answer = bigDiff(values);
-        System.out.println(answer);
-    }
 public static int bigDiff(int[] nums) {
   int a = nums[0];
   int b= nums[0];
@@ -25,5 +18,11 @@ public static int bigDiff(int[] nums) {
   }return (a-b);
   
 }
+public class BIG_DIFF {
+    public static void main(String[] args){
+        int[] values = {10, 3, 5, 6};
+        int answer = bigDiff(values);
+        System.out.println(answer);
+    }
 
 }
