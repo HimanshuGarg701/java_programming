@@ -16,6 +16,8 @@ public class ARRAY_FRONT9 {
         boolean answer = arrayFront9(a);
         System.out.println(answer);
     }
+    
+    
 public static boolean arrayFront9(int[] nums) {
   int length = nums.length;
   if(length>4){
